@@ -1,7 +1,7 @@
 ETL-CDMBuilder
 ==============
 
-Introduction
+Introduction 
 ========
 
 The CDM Builder can be used to transform observational datasets from their native formats and schemas into the OMOP Common Data Model (version 4).  
@@ -65,7 +65,7 @@ Getting Involved
 
 License
 =======
-ETL-CDMBuilder is licensed under Apache License 2.0
+ETL-CDMBuilder is licensed under Apache License
 
 Development
 ===========
