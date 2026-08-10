@@ -21,4 +21,4 @@ namespace org.ohdsi.cdm.presentation.buildingmanager
          MessageBox.Show(Logger.CreateExceptionString(ex));
       }
    }
-}
+} 
